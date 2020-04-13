@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>_164.jpg</filename>
+	<path>C:\Users\parde\OneDrive\Official Course 1\Rough File\object detection api\images\_164.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tom</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>63</ymin>
+			<xmax>184</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>
